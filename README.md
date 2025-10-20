@@ -2,6 +2,8 @@
 
 # 🚜 Agrigenius AI 🌱🤖
 
+**See live demo using this link** - https://smartagri-kohl.vercel.app/
+
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=27A544&center=true&vCenter=true&width=600&lines=AI+Powered+Agriculture+App;Smart+Farming+with+Gemini;React+%2B+TypeScript+Platform" alt="Typing SVG" />
 
 ![Agrigenius Hero](https://via.placeholder.com/900x300.png?text=Agrigenius+AI+—+React+App+for+Smart+Agriculture)
