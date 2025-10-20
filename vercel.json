@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "framework": "vite",
+  "buildCommand": "npm run build",
+  "installCommand": "npm install",
+  "outputDirectory": "dist",
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "/index.html"
+    }
+  ],
+  "env": {
+    "VITE_GEMINI_API_KEY": "@gemini_api_key",
+    "VITE_WEATHER_API_KEY": "@weather_api_key"
+  }
+}
