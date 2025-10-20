@@ -9,9 +9,5 @@
       "source": "/(.*)",
       "destination": "/index.html"
     }
-  ],
-  "env": {
-    "VITE_GEMINI_API_KEY": "@gemini_api_key",
-    "VITE_WEATHER_API_KEY": "@weather_api_key"
-  }
+  ]
 }
